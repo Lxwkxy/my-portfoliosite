@@ -5,10 +5,10 @@ function InfoThree() {
     <div className='bg-gray-200'>
       <div className='container mx-auto flex item-center py-16'>
       <div className="w-1/2 flex justify-center">
-        <img src="https://github.com/Lxwkxy/my-portfolio/blob/main/img/transcript_front.jpg?raw=true" alt="transcipt_front" className='w-auto h-auto p-10'/>
+        <img src="https://github.com/Lxwkxy/my-portfoliosite/blob/main/img/transcript_front.jpg?raw=true" alt="transcipt_front" className='w-auto h-auto p-10'/>
       </div>
       <div className="w-1/2 flex justify-center">
-        <img src="https://github.com/Lxwkxy/my-portfolio/blob/main/img/transcript_back.jpg?raw=true" alt="transcipt_back" className='w-auto h-auto p-10'/>
+        <img src="https://github.com/Lxwkxy/my-portfoliosite/blob/main/img/transcript_back.jpg?raw=true" alt="transcipt_back" className='w-auto h-auto p-10'/>
       </div>
     </div>
     <div className="w-1/2 px-6">
