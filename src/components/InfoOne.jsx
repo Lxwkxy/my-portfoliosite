@@ -5,7 +5,7 @@ function InfoOne() {
     <div className='bg-gray-200'>
     <div className='container mx-auto flex item-center py-16'>
       <div className="w-1/2 md:w-1/3 lg:w-1/4">
-        <img src="https://github.com/Lxwkxy/my-portfolio/blob/main/img/me_img.jpg?raw=true" alt="Me" className='w-full h-auto rounded-full p-10'/>
+        <img src="https://github.com/Lxwkxy/my-portfoliosite/blob/main/img/me_img.jpg?raw=true" alt="Me" className='w-full h-auto rounded-full p-10'/>
       </div>
       <div className="w-1/2 px-6">
           <div className='bg-blue-500 text-white px-6 py-2 rounded-full mt-8 inline-block font-thaiFont'>
