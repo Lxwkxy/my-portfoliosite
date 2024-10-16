@@ -4,7 +4,7 @@ function InfoFour() {
   return (
     <section className='font-serif py-16 font-thaiFont'>
       <div>
-        <div className="grid grid-cols-3 gap-4 flex flex-wrap justify-center mt-8">
+        <div className="flex flex-wrap justify-center mt-8">
             <div className="w-full md:w-1/2 lg:w-1/3 px-4 mb-8 flex items-center">
                 <div className="bg-white p-6 rounded-lg shadow-md text-center grid justify-items-center">
                     <img src="https://github.com/Lxwkxy/my-portfoliosite/blob/main/Cert/come_prog_cert.png?raw=true" alt="ศิลปหัตถกรรมการแข่งขันการเขียนโปรแกรมด้วยภาษาคอมพิวเตอร์ระดับเขต เหรียญทอง รองชนะเลิศอันดับ 2"/>
