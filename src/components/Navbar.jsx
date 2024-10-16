@@ -29,11 +29,20 @@ function Navbar() {
             </svg>
           </button>
         </div>
+          <ul className='hidden md:flex space-x-4'>
+            <li className='py-2'><a href="#Skills" className='text-white'>Skills</a></li>
+            <li className='py-2'><a href="#Transcript" className='text-white'>Transcript</a></li>
+            <li className='py-2'><a href="#Cert" className='text-white'>Certificates</a></li>
+            <li className='py-2'><a href="#Act" className='text-white'>Activities</a></li>
+            <li className='py-2'><a href="#Contact" className='text-white'>Contact</a></li>
+          </ul>
       </div>
+
+          
 
       {/* Mobile Menu */}
       {isMenuOpen ? (
-            <ul className='flex-col md:hidden'>
+          <ul className='flex-col md:hidden'>
             <li className='py-2'><a href="#Skills" className='text-white'>Skills</a></li>
             <li className='py-2'><a href="#Transcript" className='text-white'>Transcript</a></li>
             <li className='py-2'><a href="#Cert" className='text-white'>Certificates</a></li>
